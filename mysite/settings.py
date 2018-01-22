@@ -25,7 +25,7 @@ SECRET_KEY = '$(l&5m*53v-+c8c$wco&b0i53by0ngsahn(1krsu&1xo_#7p)c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Lenainweb.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'some_host.pythonanywhere.com']
 
 
 # Application definition
